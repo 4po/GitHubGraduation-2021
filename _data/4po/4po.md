@@ -1,6 +1,6 @@
 ---
 name: Leonhart Bukovski 
 institution: TheCodingMachine Lyon
-quote: Hello World! Let's make something great together :)
+quote: Hi, I am French and long live the baguettes! :)
 github_user: 4po
 ---
